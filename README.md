@@ -1,6 +1,6 @@
 # Edson Santos
 
-Engenheiro Mecânico em transição para área de Desenvolvimento.
+Engenheiro Mecânico atuando como Desenvolvedor FullStack.
 
 <div>
   <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=edsonjfs&show_icons=true&include_all_commits=true&count_private=true" />
