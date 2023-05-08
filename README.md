@@ -1,6 +1,9 @@
 # Edson Santos
 
-Engenheiro Mecânico atuando como Desenvolvedor FullStack.
+Olá, me chamo Edson, sou desenvolvedor e trabalho com as tecnologias Java, SpringBoot, JavaScript, Angular, DB2,SQL. Essas tecnologias tenho experiência profissional, mas também estudo e estou desenvolvendo um projeto pessoal que usa Quarkus, Vue.js e MongoDB. É uma API que visa a administração de clubes do jogo Brawl Stars, da SuperCell.
+
+Sou formado em Engenharia Mecânica, onde tive meu primeiro contato com lógica e linguagem de programação, e em 2021 comecei minha migração de carreira. desde maio de 2022 trabalho na Capgemini, como desenvolvedor Java, com foco no Backend, mas também atuo no Front caso necessário.
+
 
 <div>
   <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=edsonjfs&show_icons=true&include_all_commits=true&count_private=true" />
